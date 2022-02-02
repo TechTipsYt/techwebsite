@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
 
 
 body {
@@ -108,7 +109,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 4px;
     margin: 11px 102px 2px 707px;
-    font-family: 'Supermercado One', cursive;
+    font-family: 'Comic Neue', cursive;
     font-size: 3.6em;
     padding: 0em;
 
@@ -171,7 +172,7 @@ footer {
     letter-spacing: 10px;
     font-size: 2em;
     margin-top: -343pt;
-    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Comic Neue', cursive;
     color: aqua;
 
 }
