@@ -3,6 +3,8 @@
 
 <head>
     <link rel="icon" href="images/logo.png" type="image/icon type">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7155726402686855"
+     crossorigin="anonymous"></script>
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -41,14 +43,14 @@
                     </li>
                     
                     <li class="nav-item head-text1">
-                        <a class="nav-link" href="/about.html">About</a>
+                        <a class="nav-link" href="/about">About</a>
                     </li>
 
                     <li class="nav-item head-text1">
-                        <a class="nav-link" href="/coming-soon.html">Blogs</a>
+                        <a class="nav-link" href="/coming-soon.">Blogs</a>
                     </li>
                     <li class="nav-item head-text1">
-                        <a class="nav-link active" href="/contact-us.html">Contact Us</a>
+                        <a class="nav-link active" href="/contact-us">Contact Us</a>
                     </li>
             </div>
         </div>
