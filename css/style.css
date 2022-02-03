@@ -176,6 +176,9 @@ footer {
     color: aqua;
 
 }
+..404-title{
+    font-family: 'Comic Nue', cursive;
+}
 
 @media (min-width:710px) and (max-width: 985px) {
 
