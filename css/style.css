@@ -271,7 +271,7 @@ footer {
 
 @media (min-width: 999px) and (max-width: 1068px) {
     .about-para1 {
-        margin: 0px, 0px, opx;
+        margin: 0px, 0px, 0px;
     }
 
     .footer-about {
