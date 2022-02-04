@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');
 
 
 body {
@@ -176,8 +177,58 @@ footer {
     color: aqua;
 
 }
-..404-title{
-    font-family: 'Comic Nue', cursive;
+
+.un {
+    font-family: 'Comic Neue', cursive;
+    color: aqua;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.un-main {
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.829);
+    margin-top: 0px;
+    margin-left: 10px;
+    text-shadow: #000000 100em;
+}
+
+.not-found {
+    margin-top: -320px;
+    margin-bottom: 259px;
+    margin-left: 427px;
+
+}
+
+.btn-back1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.btn-back:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.btn-back {
+    border-color: green;
+    color: white;
+    padding: 16px 32px;
+    text-decoration-color: #000000;
+    border-radius: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin: 26px 98px 113px 387px;
+}
+
+.btn-back:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    background-color: green;
 }
 
 @media (min-width:710px) and (max-width: 985px) {
@@ -204,6 +255,10 @@ footer {
         letter-spacing: 0;
         font-size: 16px;
         margin-top: 53px;
+    }
+
+    .btn-back {
+        margin: 6px 80px 0px;
     }
 
 }
@@ -265,16 +320,37 @@ footer {
         margin-left: -60em;
     }
 
+    .not-found {
+        margin-top: -512px;
+        margin-bottom: 374px;
+        margin-left: 19px;
 
+    }
+
+    .not-found-image {
+        margin-left: -67px;
+        size: -145px;
+        width: -8px;
+        height: -16px;
+    }
+
+    .btn-back {
+        margin: 344px 77px 0px;
+    }
 }
 
 
 @media (min-width: 999px) and (max-width: 1068px) {
     .about-para1 {
-        margin: 0px, 0px, 0px;
+        margin: 0px, 0px, opx;
     }
 
     .footer-about {
         margin: 0px, 0px, 0px;
     }
+    .btn-back{
+        margin: 19px 197px 19px;
+}
+
+
 }
