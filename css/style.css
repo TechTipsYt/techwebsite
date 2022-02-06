@@ -231,6 +231,19 @@ footer {
     background-color: green;
 }
 
+.formsir{
+    margin-top: 281px;
+    margin-right: 0px;
+    color:aqua;
+}
+
+.tick{
+    margin-top: 18px;
+    margin-left: -7px;
+    margin-bottom: -189px;
+    height: 251px;
+    width: 296px;
+}
 @media (min-width:710px) and (max-width: 985px) {
 
     .about-image {
@@ -354,3 +367,4 @@ footer {
 
 
 }
+
