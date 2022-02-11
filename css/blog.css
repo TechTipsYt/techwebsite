@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');
+
+
+body {
+
+    padding: 0px;
+}
+
+.head-text {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    height: 44px;
+}
+
+.head-text:hover {
+    background-color: grey;
+    opacity: 40%;
+}
+
+.head-text1 {
+
+    padding: 1em;
+
+}
+
+.head-text1:hover {
+    background-color: grey;
+    opacity: 10;
+}
+
+.footer-background {
+
+    background-color: #2c292f;
+    display: flexbox;
+}
+
+.footer-text {
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    text-decoration: none;
+}
+
+.copy-text {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    text-decoration: none;
+    padding-top: 3px;
+}
+
+
+footer {
+    margin-top: 200px;
+
+    background-color: #2c292f;
+}
+
+
+
+.mail {
+    color: white;
+    align-items: center;
+    margin-left: 0px;
+    padding-top: 3px;
+    text-decoration: none;
+
+
+}
+
+.latest-blog {
+    color: beige;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    margin-top: 35px;
+}
+
+.card-latest{
+    margin: 32px 22px 71px;
+}
+
+
+@media (min-width:710px) and (max-width: 985px) {}
+
+@media (min-width: 200px) and (max-width: 705px) {
+    footer {
+        margin-top: 68px;
+    }
+
+
+}
+
+
+@media (min-width: 999px) and (max-width: 1068px) {
+
+
+    .footer-about {
+        margin: 0px, 0px, 0px;
+    }
+
+
+
+}
