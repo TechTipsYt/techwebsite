@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');
 
+*/ Copyright Css Code By Tech Tips By Abhijith*/
 
 body {
 
@@ -121,7 +122,7 @@ body {
     font-family: 'Anton', sans-serif;
     margin-top: 10pt;
 }
-
+*/ Copyright Css Code By Tech Tips By Abhijith*/
 .cu {
     size: 0px;
     height: 276px;
@@ -177,7 +178,7 @@ footer {
     color: aqua;
 
 }
-
+*/ Copyright Css Code By Tech Tips By Abhijith*/
 .un {
     font-family: 'Comic Neue', cursive;
     color: aqua;
@@ -210,6 +211,7 @@ footer {
     background-color: #4CAF50;
     color: white;
 }
+*/ Copyright Css Code By Tech Tips By Abhijith*/
 
 .btn-back {
     border-color: green;
@@ -292,7 +294,7 @@ footer {
         margin-left: 37px;
 
     }
-
+*/ Copyright Css Code By Tech Tips By Abhijith*/
     .latest-videos {
         align-items: center;
         display: grid;
@@ -352,7 +354,7 @@ footer {
         margin: 344px 77px 0px;
     }
 }
-
+*/ Copyright Css Code By Tech Tips By Abhijith*/
 
 @media (min-width: 999px) and (max-width: 1068px) {
     .about-para1 {
@@ -369,3 +371,4 @@ footer {
 
 }
 
+*/ Copyright Css Code By Tech Tips By Abhijith*/
