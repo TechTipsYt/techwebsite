@@ -295,13 +295,13 @@ footer {
 
     }
 */ Copyright Css Code By Tech Tips By Abhijith*/
-    .latest-videos {
+   .latest-videos {
         align-items: center;
         display: grid;
         margin-top: 58px;
-
+        height: 341px;
+        width: 316px;
     }
-
     .cu {
         size: 0px;
         height: 276px;
