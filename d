@@ -66,14 +66,15 @@
 
                    
                     </div>
-                    <p>
-                        <center><i class="fas fa-mail-bulk"></i><a href="mailto:contactmailtech@gmail.com"
-                                class="mail">Contactmailtech@gmail.com</a></center>
+                  <p>
+                        <center><i class="fas fa-mail-bulk"></i>><a href="mailto:contactmailtech@gmail.com"
+                                class="mail">support@techtipsyt.in</a></center>
                     <div class="copy-text">
                         <h6 class="mb-0 ">
                             &copy; 2020 -
                             <script>document.write(new Date().getFullYear());</script> TECH TIPS BY ABHIJITH
                             </p>
+
 
 
                     </div>
