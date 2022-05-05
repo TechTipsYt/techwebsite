@@ -74,14 +74,11 @@ footer {
 
 }
 
-.latest-blog {
-    color: beige;
-    font-family: 'Mochiy Pop P One', sans-serif;
-    margin-top: 35px;
-}
-
-.card-latest{
-    margin: 32px 22px 71px;
+.cardayyerukum{
+  width: 312px;
+  margin-top: 63px;
+  margin-left: 39px;
+  height: 102px;
 }
 
 
